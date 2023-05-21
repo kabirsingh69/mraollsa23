@@ -1,0 +1,8 @@
+opr=
+p8=
+opragain=
+bot=
+moralis=
+myaddr=
+chatid=
+chatid2=
